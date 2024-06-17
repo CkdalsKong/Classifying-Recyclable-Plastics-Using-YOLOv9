@@ -1,0 +1,35 @@
+# Dataset 경로 지정
+train: 
+val: 
+test: 
+
+# Classes
+names:
+  0: PET_WaterLabeled
+  1: PET_WaterUnlabeled
+  2: PET_Labeled
+  3: PET_Unlabeled
+  4: PP_DeliveryLid
+  5: PP_DeliveryBowlWhite
+  6: PE_Makgeolli
+  7: PP_Squarebox
+  8: Undefined_TransparentBowl
+  9: PS_Drink
+  10: PP_DeliveryBowlBlack
+  11: PET_Others
+  12: PS_BananaMilk
+  13: PS_Bowl
+  14: PS_WangRamen
+  15: PS_Viyott
+  16: Others_Hetbahn
+  17: Undefined_TakeoutCup
+  18: Undefined_TakeoutCap
+  19: Undefined_TakeoutCapHot
+  20: Undefined_TakeoutCapHotBlack
+  21: Undefined_Egg
+  22: Undefined_Sauce
+  23: Undefined_Shampoo
+  24: Undefined_Yoplait
+  25: Undefined_Plate
+  26: Undefined_Undefined
+  
